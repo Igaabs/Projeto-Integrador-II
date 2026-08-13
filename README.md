@@ -32,8 +32,8 @@ A aplicação contará com um bot equipado com inteligência artificial para aux
 * Tradução de termos técnicos e burocráticos do sistema oficial.
 * Auxílio a docentes na navegação do sistema para fechamento de diários e consolidação de turmas.
 
-# Aluno: Gabriel Ferreira Piauilino 
-# 3° ano B - CTBJ/UFPI
+Aluno: Gabriel Ferreira Piauilino 
+3° ano B - CTBJ/UFPI
 
 
 
